@@ -1,5 +1,5 @@
 # COMP-2210
-Fundamentals of Computing II 
+Fundamentals of Computing II (Spring 2021)
 
 Projects and various example programs from COMP-2210.
 
